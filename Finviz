@@ -1,3 +1,7 @@
+#Stock sentiment by scraping news headlines 
+#Create investing insight by applying sentiment analysis on financial news headlines from FINVIZ.com. 
+#Using natural language processing to understand emotion behind headlines to use as a gauge whether the market feels good or bad about a stock.
+
 # Import libraries
 from bs4 import BeautifulSoup
 import os
